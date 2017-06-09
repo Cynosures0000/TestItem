@@ -4,7 +4,7 @@
   name="storm Maven Webapp"
   id="myeclipse.1496885248921"
   context-root="/storm"
-  j2ee-spec="6.0"
+  j2ee-spec="1.7"
   archive="storm Maven Webapp.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
