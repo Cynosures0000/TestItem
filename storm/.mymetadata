@@ -2,9 +2,9 @@
 <project-module
   type="WEB"
   name="storm Maven Webapp"
-  id="myeclipse.1496885248921"
+  id="myeclipse.1496978913962"
   context-root="/storm"
-  j2ee-spec="1.7"
+  j2ee-spec="6.0"
   archive="storm Maven Webapp.war">
   <attributes>
     <attribute name="webrootdir" value="src/main/webapp" />
